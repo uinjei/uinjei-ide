@@ -39,3 +39,8 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+#nwjs
+/nwjs/*
+!/nwjs/package.json
+/webkitbuilds/*
